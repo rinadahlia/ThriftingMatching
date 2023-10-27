@@ -1,0 +1,311 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+
+#bb04c997ac4b7464dd0ff79da7d4c8 {
+	position: absolute;
+	width: 1920px;
+	height: 1281px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 122px;
+	left: 0px;
+	top: 0px;
+}
+#Thrifting_Matching {
+	left: 140px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Viner Hand ITC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 267px;
+	height: 76px;
+	left: 1513px;
+	top: 17px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Checkout.html;
+	cursor: pointer;
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 267px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#CART {
+	left: 71px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#Path_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 302px;
+	height: 354px;
+	left: 105px;
+	top: 186px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_1 {
+	position: absolute;
+	width: 81px;
+	height: 86px;
+	left: 1815px;
+	top: 547px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 86px;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_1 {
+	fill: rgba(0,102,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 57px;
+	height: 49px;
+	transform: translate(-1815px, -547px) matrix(1,0,0,1,1823.4317,557.9676) rotate(-30deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 302px;
+	height: 1px;
+	left: 105px;
+	top: 439.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_8 {
+	position: absolute;
+	width: 106px;
+	height: 37px;
+	left: 203px;
+	top: 490px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 106px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 106px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Checkout.html;
+	cursor: pointer;
+}
+#Group_7 {
+	position: absolute;
+	width: 106px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_6 {
+	position: absolute;
+	width: 106px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 106px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+}
+#Group_9 {
+	position: absolute;
+	width: 65px;
+	height: 35px;
+	left: 20.5px;
+	top: 1px;
+	overflow: visible;
+}
+#BUY {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(0,0,0,1);
+}
+
+#cards {
+	padding: 20px;
+	margin: 40px 0px;
+
+}
+@media screen and (max-width: 600px) {
+	.col-25, .col-75, input[type=submit] {
+	  width: 100%;
+	  margin-top: 0;
+	}
+  }
+  .button-group {
+	display: flex;
+	gap: 10px; 
+}
+
+.btn {
+	padding: 10px 20px;
+	background-color: #007bff;
+	color: #fff; 
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s;
+}
+
+.btn:hover {
+	background-color: #00336a; 
+}
